@@ -1,0 +1,2 @@
+model_checkpoint_path: "globalmodel"
+all_model_checkpoint_paths: "globalmodel"
