@@ -1,5 +1,5 @@
 ## DH3D: *Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DOF Relocalization*
-Created by Juan Du,
+Created by [Juan Du](mailto:duj@in.tum.de),
 <a href="https://vision.in.tum.de/members/wangr" target="_blank">Rui Wang</a>,
 <a href="https://vision.in.tum.de/members/cremers" target="_blank">Daniel Cremers</a>
 at the Technical University of Munich.
